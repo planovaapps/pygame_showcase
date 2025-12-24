@@ -1,11 +1,11 @@
-# 🐍 Snake Game (Python + Pygame)
+# Snake Game (Python + Pygame)
 
 A fast, clean, and modern Snake game built using **Python 3.13** and **Pygame**.  
 The game includes special golden food (+3 points), increasing speed, and smooth gameplay.
 
 ---
 
-## 🎮 Features
+## Features
 - Smooth snake movement  
 - Golden special food (+3 points)  
 - Increasing speed based on score  
@@ -16,15 +16,15 @@ The game includes special golden food (+3 points), increasing speed, and smooth 
 
 ---
 
-## 📦 Download & Play (Windows EXE)
+## Download & Play (Windows EXE)
 Download the ready-to-play EXE:  
-➡️ **snake_game.exe** (inside this folder)
+**snake_game.exe** (inside this folder)
 
 Just double-click and play — *no installation needed*.
 
 ---
 
-## 🐍 Run from Source (Python)
+## Run from Source (Python)
 ### Requirements
 Python **3.13+**  
 Install dependencies:
@@ -34,6 +34,6 @@ pygame                    2.6.1
 
 ---
 
-## 📄 License
+## License
 This project is licensed under the **MIT License**.  
 You are free to use, modify, and distribute the code.
